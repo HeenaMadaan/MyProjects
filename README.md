@@ -1,2 +1,2 @@
 # MyProjects
-Personal projects on Data Engineering using Spark, scala, kafka etx
+Personal projects on Data Engineering using Spark, scala, kafka etc
